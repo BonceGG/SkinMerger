@@ -6,11 +6,11 @@
 - When you have to combine many skins it is very difficult to have to do it one by one. This tool automates the combination in seconds, with the added bonus of being able to add accessories.
 
 # Download
-Windows (Recommended)
-  [Installer](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMerger-1.0.exe)
+Windows (Recommended):
+ - [Installer](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMerger-1.0.exe)
 
-Cross-Platform
-- [.jar](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMergerMC-1.0-SNAPSHOT.jar)
+Cross-Platform:
+- [Launcher .jar](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMergerMC-1.0-SNAPSHOT.jar)
   **Run with JDK 21 or superior.**
 
 # Usage
