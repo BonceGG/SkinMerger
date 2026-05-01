@@ -7,12 +7,11 @@
 
 # Download
 Windows (Recommended)
-- [**Download .exe (Direct Installer)**](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMerger.exe)
-  Installer
+  [Installer](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMerger-1.0.exe)
 
 Cross-Platform
-- [**Download .jar (Executable)**](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMergerMC-1.0-SNAPSHOT.jar)
-  **Note:** Run with **JDK 21** or superior.
+- [.jar](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMergerMC-1.0-SNAPSHOT.jar)
+  **Run with JDK 21 or superior.**
 
 # Usage
 1. Add the base skin (the skin that will be combined with the others)
