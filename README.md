@@ -11,7 +11,7 @@ Windows (Recommended):
 
 Cross-Platform:
 - [Launcher .jar](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMergerMC-1.0-SNAPSHOT.jar)
-  **Run with JDK 21 or superior.**
+  **Rquires run with JDK 21 or superior.**
 
 # Usage
 1. Add the base skin (the skin that will be combined with the others)
