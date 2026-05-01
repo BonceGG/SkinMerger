@@ -7,8 +7,8 @@
 
 # Download
 Windows (Recommended)
-- [**Download .exe (Direct Installer)**](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMerger.exe) 
-  - *Simple installation, includes desktop shortcut.*
+- [**Download .exe (Direct Installer)**](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMerger.exe)
+  Installer
 
 Cross-Platform
 - [**Download .jar (Executable)**](https://github.com/BonceGG/SkinMerger/releases/download/v1.0.0/SkinMergerMC-1.0-SNAPSHOT.jar)
